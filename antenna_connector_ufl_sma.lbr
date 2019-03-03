@@ -93,7 +93,7 @@
 <device name="" package="ANTENNA_CONNECTOR_UFL_SMA">
 <connects>
 <connect gate="G$1" pin="1" pad="SIGNAL"/>
-<connect gate="G$1" pin="GND" pad="GND GND@1 GND@2 GND@3"/>
+<connect gate="G$1" pin="GND" pad="GND GND@1 GND@2 GND@3" route="any"/>
 </connects>
 <technologies>
 <technology name=""/>
