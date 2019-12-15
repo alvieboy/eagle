@@ -771,18 +771,18 @@
 <circle x="-1.35" y="1.35" radius="0.180275" width="0.127" layer="21"/>
 </package>
 <package name="HW-147-NFC-NOHOLES">
-<pad name="SS" x="1.27" y="13.97" drill="0.8" shape="square"/>
-<pad name="MOSI" x="-1.27" y="13.97" drill="0.8" shape="square"/>
-<pad name="MISO" x="-3.81" y="13.97" drill="0.8" shape="square"/>
-<pad name="SCK" x="-6.35" y="13.97" drill="0.8" shape="square"/>
-<pad name="VCC" x="3.81" y="13.97" drill="0.8" shape="square"/>
-<pad name="GND" x="6.35" y="13.97" drill="0.8" shape="square"/>
-<pad name="IRQ" x="8.89" y="13.97" drill="0.8" shape="square"/>
-<pad name="RSTO" x="11.43" y="13.97" drill="0.8" shape="square"/>
-<pad name="VCC1" x="-15.24" y="1.27" drill="0.8" shape="square"/>
-<pad name="SDA/TX" x="-15.24" y="-1.27" drill="0.8" shape="square"/>
-<pad name="GND1" x="-15.24" y="3.81" drill="0.8" shape="square"/>
-<pad name="SCL/RX" x="-15.24" y="-3.81" drill="0.8" shape="square"/>
+<pad name="SS" x="1.27" y="13.97" drill="0.8"/>
+<pad name="MOSI" x="-1.27" y="13.97" drill="0.8"/>
+<pad name="MISO" x="-3.81" y="13.97" drill="0.8"/>
+<pad name="SCK" x="-6.35" y="13.97" drill="0.8"/>
+<pad name="VCC" x="3.81" y="13.97" drill="0.8"/>
+<pad name="GND" x="6.35" y="13.97" drill="0.8"/>
+<pad name="IRQ" x="8.89" y="13.97" drill="0.8"/>
+<pad name="RSTO" x="11.43" y="13.97" drill="0.8"/>
+<pad name="VCC1" x="-15.24" y="1.27" drill="0.8"/>
+<pad name="SDA/TX" x="-15.24" y="-1.27" drill="0.8"/>
+<pad name="GND1" x="-15.24" y="3.81" drill="0.8"/>
+<pad name="SCL/RX" x="-15.24" y="-3.81" drill="0.8"/>
 </package>
 <package name="HW-147-NFC">
 <wire x1="-21.5" y1="-20" x2="-21.5" y2="20" width="0.127" layer="51"/>
